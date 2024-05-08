@@ -27,5 +27,9 @@
 
 <p> Ссылка на проект: https://github.com/Egor-Koshelev/project-4
 
+#### Проект 5: Анализ и визуализация результатов АВ тестирования в продуктовой ретейле в Python.
+
+<p> Ссылка на проект: https://github.com/Egor-Koshelev/project-5
+
 Контактная информация
 Egor koshelev . Email: egorkoshelev2023@list.ru
