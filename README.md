@@ -5,10 +5,10 @@
 
 <h3>НАВЫКИ И ТЕХНОЛОГИИ</h3>
 <p>- SQL : DML, DDL, CTE, подзапросы, оконные функции, агрегация.
-<p>- Python для анаиза данных (Pandas, NumPy, Matplotlib, Seaborn, Scipy, Json, Re)
-<p>- Excel:  
-<p>- СУБД: PostgreSQL через DBeaver, Metabase, Redash.
-<p>- Средства визуализации данных: Power Bi, Matplotlib, Seaborn, DataLens.
+<p>- Python для анализа данных : Pandas, NumPy, Matplotlib, Seaborn, Scipy, Json, Re.
+<p>- Excel : Power Pivot , Power Query, Пакет “Анализ Данных”, Лист Прогноза.  
+<p>- СУБД : PostgreSQL через DBeaver, Metabase, Redash.
+<p>- Инструменты визуализации: Power Bi, Matplotlib, Seaborn, DataLens.
 
   ### Проекты
 
