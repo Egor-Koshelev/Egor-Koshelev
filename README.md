@@ -4,10 +4,11 @@
 В этом репозитории вы можете найти ряд проектов, которые я выполнял во время обучения и практики. Email: egorkoshelev2023@list.ru
 
 <h3>НАВЫКИ И ТЕХНОЛОГИИ</h3>
-<p>- Инструменты анализа данных: SQL, Excel (агрегирующие функции, умные таблицы, сводные таблицы, Power Query, Power Pivot, визуализация данных, построение дашбордов), Google Sheets.
-<p>- Языки программирования и библиотеки: SQL,Python, Pandas.
-<p>- Системы управления базами данных: MySQL, диалект PostgreSQL.
-<p>- Средства визуализации данных: PowerBi, Matplotlib, Seaborn.
+<p>- SQL : DML, DDL, CTE, подзапросы, оконные функции, агрегация.
+<p>- Python для анаиза данных (Pandas, NumPy, Matplotlib, Seaborn, Scipy, Json, Re)
+<p>- Excel:  
+<p>- СУБД: PostgreSQL через DBeaver, Metabase, Redash.
+<p>- Средства визуализации данных: Power Bi, Matplotlib, Seaborn, DataLens.
 
   ### Проекты
 
