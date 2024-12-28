@@ -16,7 +16,7 @@
 
 Ссылка на проект: https://github.com/Egor-Koshelev/project-1  
 
-#### Проект 2: Визуализация данных по онлайн-школе в Excel
+#### Проект 2: Анлиз продаж сети кофеен в Python
 
 <p> Ссылка на проект: https://github.com/Egor-Koshelev/project-2
 
