@@ -9,7 +9,7 @@
 
 <h3>НАВЫКИ И ТЕХНОЛОГИИ</h3>
 <p>- SQL : DML, DDL, CTE, подзапросы, оконные функции, агрегация.
-<p>- Python для анализа данных : Pandas, NumPy, Matplotlib, Seaborn, Scipy, Json, Re.
+<p>- Python для анализа данных : Pandas, NumPy, Matplotlib, Seaborn, Json, Re.
 <p>- Excel : Power Pivot , Power Query, Пакет “Анализ Данных”, Лист Прогноза.  
 <p>- СУБД : PostgreSQL через DBeaver, Metabase, Redash.
 <p>- Инструменты визуализации: Power Bi, Matplotlib, Seaborn.
