@@ -6,14 +6,13 @@
 <p> •	ОАНО ДПО «СКАЕНГ»
 на базе высшего экономического образования (Академия Науки и Бизнеса, СПБ, по специальности «Экономика и управление на предприятии»). 
 <p> В этом репозитории вы можете найти выполненные мною проекты по анализу данных. 
-<p> Email: egorkoshelev2023@list.ru
 
 <h3>НАВЫКИ И ТЕХНОЛОГИИ</h3>
 <p>- SQL : DML, DDL, CTE, подзапросы, оконные функции, агрегация.
 <p>- Python для анализа данных : Pandas, NumPy, Matplotlib, Seaborn, Scipy, Json, Re.
 <p>- Excel : Power Pivot , Power Query, Пакет “Анализ Данных”, Лист Прогноза.  
 <p>- СУБД : PostgreSQL через DBeaver, Metabase, Redash.
-<p>- Инструменты визуализации: Power Bi, Matplotlib, Seaborn, DataLens.
+<p>- Инструменты визуализации: Power Bi, Matplotlib, Seaborn.
 
   ### Проекты
 
